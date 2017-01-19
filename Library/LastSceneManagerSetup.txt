@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fountain/Fountain.unity
+  isLoaded: 1
+  isActive: 1
